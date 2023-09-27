@@ -1,0 +1,178 @@
+{
+  "product": [
+    {
+      "id": "1695331497627",
+      "category": "Mens",
+      "pro_name": "BLIVE",
+      "des": "Men Typography Round Neck Cotton Blend Black ",
+      "price": " $20",
+      "img_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/x/b/c/m-bblrnful-z62-blive-original-imagrvfwdd9zrgz3.jpeg?q=70",
+      "created": "21 Sep 2023 2:24:57 pm",
+      "updated": "Not yet"
+    },
+    {
+      "id": "1695331572353",
+      "category": "Mens",
+      "pro_name": "NB NICKY BOY",
+      "des": "Men Printed Round Neck Cotton Blend Light Blue T-Shirt",
+      "price": "$25",
+      "img_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/z/0/k/l-all-rbcpon-sky-one-nb-nicky-boy-original-imagrdhcgyk7papf.jpeg?q=70",
+      "created": "21 Sep 2023 2:26:12 pm",
+      "updated": "Not yet"
+    },
+    {
+      "id": "1695331705293",
+      "category": "Mens",
+      "pro_name": "BLIVE ",
+      "des": "Men Typography Round Neck Cotton Blend Red T-Shirt",
+      "price": "$50",
+      "img_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/d/p/n/l-brdrnful-z62-blive-original-imagrvguzzhf5trx.jpeg?q=70",
+      "created": "21 Sep 2023 2:28:25 pm",
+      "updated": "Not yet"
+    },
+    {
+      "id": "1695333432622",
+      "category": "Womens",
+      "pro_name": "aman",
+      "des": "heloo",
+      "price": "$50",
+      "img_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/v/e/t/s-bogrrnful-z62-blive-original-imagrvgzbg2ergpw.jpeg?q=70",
+      "created": "21 Sep 2023 2:57:12 pm",
+      "updated": "Not yet"
+    }
+  ],
+  "category": [
+    {
+      "id": "1693586069197",
+      "categoryname": "Mens"
+    },
+    {
+      "id": "1693586077308",
+      "categoryname": "Womens"
+    },
+    {
+      "id": "1693586085346",
+      "categoryname": "Kids"
+    }
+  ],
+  "user": [
+    {
+      "id": "1693346951469",
+      "firstname": "Aman",
+      "lastname": "Mansuri",
+      "phone": "01234567890",
+      "email": "amanmansuri230@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "1693605615924",
+      "firstname": "Rajesh",
+      "lastname": "Nagar",
+      "phone": "4579176314",
+      "email": "rajesh@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "1693607892584",
+      "firstname": "Rahil",
+      "lastname": "Mansuri",
+      "phone": "7845123698",
+      "email": "rahil|@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "1693607944720",
+      "firstname": "parth",
+      "lastname": "shindhe",
+      "phone": "7845123698",
+      "email": "parth@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "1693607977543",
+      "firstname": "kunal",
+      "lastname": "patel",
+      "phone": "7894651236",
+      "email": "kunal@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "1693615111910",
+      "firstname": "Ayan",
+      "lastname": "Mansuri",
+      "phone": "9712203185",
+      "email": "ayan@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "1693978394111",
+      "firstname": "Juned",
+      "lastname": "Mansuri",
+      "phone": "1234567890",
+      "email": "juned@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "1694195183893",
+      "firstname": "Janvi",
+      "lastname": "Patel",
+      "phone": "07845129856",
+      "email": "janvi@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "1694459402707",
+      "firstname": "Rohan",
+      "lastname": "Darji",
+      "phone": "7845693212",
+      "email": "rohan@gmail.com",
+      "password": "999999"
+    }
+  ],
+  "inquiry": [
+    {
+      "id": "1692467666959",
+      "name": "Aman Mansuri",
+      "email": "amanmansuri@gmail.com",
+      "message": "Hello i am aman"
+    },
+    {
+      "id": "1692467926149",
+      "name": "rahil",
+      "email": "rahil@gmail.com",
+      "message": "hello "
+    },
+    {
+      "id": "1692467999673",
+      "name": "sahil",
+      "email": "sahil@gmail.com",
+      "message": "hiiiiiiiii"
+    },
+    {
+      "id": "1692470841663",
+      "name": "Ayan",
+      "email": "ayan@gmal.com",
+      "message": "Hiii i am ayan"
+    },
+    {
+      "id": "1692472469177",
+      "name": "Taniya",
+      "email": "taniya2115@gmail.com",
+      "message": "Hello i am taniya"
+    },
+    {
+      "id": "1692639812423",
+      "name": "Kuldip",
+      "email": "kuldip@gmail.com",
+      "message": "Hello"
+    }
+  ],
+  "admin": [
+    {
+      "id": "1692643849397",
+      "name": "Aman Mansuri",
+      "email": "amanmansuri@gmail.com",
+      "password": "123456789"
+    }
+  ]
+}
